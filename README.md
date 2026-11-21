@@ -1,7 +1,7 @@
 <!-- GitHub profile for DarkThunder (DT-DT001) -->
 
 <p align="center">
-  <a href="https://github.com/DT-DT001/Aether01-Hardware-AC101S"><img src="./assets/aether01-hero.png" alt="Aether01（以太零壹）硬件 · ESP32-S31 · AC101S · TG29 · DarkThunder" width="100%"></a>
+  <a href="https://github.com/DT-DT001/Aether01-Hardware-AC101S"><img src="https://raw.githubusercontent.com/DT-DT001/DT-DT001/718dd9b8c5a3bf3f0a82b9854a9bd37c9d77bc5c/assets/aether01-hero.png" alt="Aether01（以太零壹）硬件 · ESP32-S31 · AC101S · TG29 · DarkThunder" width="100%"></a>
 </p>
 
 ## Selected repositories
