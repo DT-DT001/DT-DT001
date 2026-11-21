@@ -1,7 +1,7 @@
 <!-- GitHub profile for DarkThunder (DT-DT001) -->
 
 <p align="center">
-  <img src="./assets/aether01-hero.png" alt="DarkThunder, DT-DT001. 以太零壹 Aether01 — ESP32-S31 Firmware." width="100%">
+  <a href="https://github.com/DT-DT001/Aether01-Hardware-AC101S"><img src="./assets/aether01-hero.png" alt="Aether01（以太零壹）硬件工程 · DarkThunder" width="100%"></a>
 </p>
 
 ## Selected repositories
