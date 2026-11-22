@@ -1,17 +1,31 @@
 <!-- GitHub profile for DarkThunder (DT-DT001) -->
 
+# DarkThunder
+
+我做 ESP32 硬件、固件和设备界面，公开分享设计文件、源码和可烧录固件。
+
+ESP32 hardware, firmware, and embedded interfaces.
+
+## 以太01 · Aether01
+
+一台基于 ESP32-S31 的掌上设备，配备 480 × 480 AMOLED 触屏和 AC101S 音频芯片。固件集成阅读、音乐、天气和内置游戏。
+
 <p align="center">
-  <a href="https://github.com/DT-DT001/Aether01-Hardware-AC101S"><img src="https://raw.githubusercontent.com/DT-DT001/DT-DT001/718dd9b8c5a3bf3f0a82b9854a9bd37c9d77bc5c/assets/aether01-hero.png" alt="Aether01（以太零壹）硬件 · ESP32-S31 · AC101S · TG29 · DarkThunder" width="100%"></a>
+  <a href="https://github.com/DT-DT001/Aether01-AC101S-#readme"><img src="assets/aether01-interface.png" alt="以太01实际界面预览，展示含时钟、天气和状态图标的桌面及上滑应用抽屉" width="100%"></a>
 </p>
 
-## Selected repositories
+**[硬件设计](https://github.com/DT-DT001/Aether01-Hardware-AC101S)** · **[固件源码](https://github.com/DT-DT001/Aether01-AC101S-)** · **[下载最新固件](https://github.com/DT-DT001/Aether01-Hardware-AC101S/releases/latest)**
 
-<p align="center">
-  <a href="https://github.com/DT-DT001/FourColor_E-ink_Driver"><img src="./assets/fourcolor-eink.png" alt="FourColor E-ink Driver — portable C driver for four-color e-paper" width="48%"></a>
-  <a href="https://github.com/DT-DT001/ESP_TT"><img src="./assets/esp-tt.png" alt="ESP_TT — ESP32-S3 USB to UART bridge" width="48%"></a>
-</p>
+## 其他嵌入式项目 · Selected projects
 
-## Contributions
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/DT-DT001/FourColor_E-ink_Driver"><img src="assets/fourcolor-eink.png" alt="FourColor E-ink Driver" width="100%"></a><br>可移植的四色电子纸 C 驱动，包含离线抖动工具。</td>
+    <td width="50%" valign="top"><a href="https://github.com/DT-DT001/ESP_TT"><img src="assets/esp-tt.png" alt="ESP_TT" width="100%"></a><br>ESP32-S3 USB 转 UART 透传，支持运行时切换波特率。</td>
+  </tr>
+</table>
+
+## 贡献 · Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DT-DT001/DT-DT001/output/contribution-snake-dark.svg">
