@@ -14,7 +14,7 @@ ESP32 hardware, firmware, and embedded interfaces.
   <a href="https://github.com/DT-DT001/Aether01-AC101S-#readme"><img src="assets/aether01-interface.png" alt="以太01实际界面预览，展示含时钟、天气和状态图标的桌面及上滑应用抽屉" width="100%"></a>
 </p>
 
-**[硬件设计](https://github.com/DT-DT001/Aether01-Hardware-AC101S)** · **[固件源码](https://github.com/DT-DT001/Aether01-AC101S-)** · **[下载最新固件](https://github.com/DT-DT001/Aether01-Hardware-AC101S/releases/latest)**
+**[硬件设计](https://github.com/DT-DT001/Aether01-Hardware-AC101S)** · **[固件源码](https://github.com/DT-DT001/Aether01-AC101S-)** · **[下载最新固件](https://github.com/DT-DT001/Aether01-AC101S-/releases/latest)**
 
 ## 其他嵌入式项目 · Selected projects
 
