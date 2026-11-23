@@ -2,10 +2,6 @@
 
 # DarkThunder
 
-我做 ESP32 硬件、固件和设备界面，公开分享设计文件、源码和可烧录固件。
-
-ESP32 hardware, firmware, and embedded interfaces.
-
 ## 以太01 · Aether01
 
 一台基于 ESP32-S31 的掌上设备，配备 480 × 480 AMOLED 触屏和 AC101S 音频芯片。固件集成阅读、音乐、天气和内置游戏。
