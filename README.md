@@ -7,7 +7,7 @@
 一台基于 ESP32-S31 的掌上设备，配备 480 × 480 AMOLED 触屏和 AC101S 音频芯片。固件集成阅读、音乐、天气和内置游戏。
 
 <p align="center">
-  <a href="https://github.com/DT-DT001/Aether01-AC101S-#readme"><img src="assets/aether01-interface.png" alt="以太01实际界面预览，展示桌面、上滑应用抽屉与同步歌词" width="100%"></a>
+  <a href="https://github.com/DT-DT001/Aether01-AC101S-#readme"><img src="assets/aether01-interface.png" alt="以太01实际界面预览，展示时钟与天气、离线拼音和同步歌词" width="100%"></a>
 </p>
 
 **[硬件设计](https://github.com/DT-DT001/Aether01-Hardware-AC101S)** · **[固件源码](https://github.com/DT-DT001/Aether01-AC101S-)** · **[下载最新固件](https://github.com/DT-DT001/Aether01-AC101S-/releases/latest)**
